@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/torus-demo/static/css/main.b2083a9d.chunk.css",
+    "main.js": "/torus-demo/static/js/main.d703e91d.chunk.js",
+    "main.js.map": "/torus-demo/static/js/main.d703e91d.chunk.js.map",
+    "runtime-main.js": "/torus-demo/static/js/runtime-main.e78b559d.js",
+    "runtime-main.js.map": "/torus-demo/static/js/runtime-main.e78b559d.js.map",
+    "static/js/2.f14dcb8e.chunk.js": "/torus-demo/static/js/2.f14dcb8e.chunk.js",
+    "static/js/2.f14dcb8e.chunk.js.map": "/torus-demo/static/js/2.f14dcb8e.chunk.js.map",
+    "index.html": "/torus-demo/index.html",
+    "static/css/main.b2083a9d.chunk.css.map": "/torus-demo/static/css/main.b2083a9d.chunk.css.map",
+    "static/js/2.f14dcb8e.chunk.js.LICENSE.txt": "/torus-demo/static/js/2.f14dcb8e.chunk.js.LICENSE.txt",
+    "static/media/logo-light.106e4676.svg": "/torus-demo/static/media/logo-light.106e4676.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e78b559d.js",
+    "static/js/2.f14dcb8e.chunk.js",
+    "static/css/main.b2083a9d.chunk.css",
+    "static/js/main.d703e91d.chunk.js"
+  ]
+}
